@@ -23,11 +23,11 @@ https://github.com/netology-code/micros-homeworks/blob/main/11-microservices-03-
 
 Не подошли следующие решения:   
 https://gitflic.ru - не удалось найти документацию  
-self hosted gitlab  - не удовлетворяет  первому пункту требований
+self hosted gitlab  - для меня №1, но не удовлетворяет  первому пункту требований
 
 ## Задача 2: Логи
 
-Для обработки логов  существуют три стека  
+Для обработки логов  существуют три распостраненных стека  
 1. Elasticsearch + Logstash +  Kibana  
 2. Opensearch + Opensearch Output Plugin + Opensearch Dashboard
 3. Grafana Loki + Vector
